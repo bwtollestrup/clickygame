@@ -1,0 +1,19 @@
+.header {
+  width: 100%;
+  font-size: 2rem;
+  color: #1d2729;
+  margin-bottom: 10px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.title {
+  text-align: center;
+}
+
+.scores {
+  text-align: center;
+}
+
+.directions {
+  text-align: center;
+}
